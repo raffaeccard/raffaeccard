@@ -56,5 +56,5 @@
 [![](https://visitcount.itsvg.in/api?id=Losted25&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 📅 Commit activity over time
-<img src="https://activity-graph.herokuapp.com/graph?username=raffaeccard&theme=react-dark&bg_color=050014&color=6a5acd&line=00ffff&point=00ff9c&hide_border=true"/>
+## 🗓️ Commit Activity (by Date)
+<img src="https://github-readme-stats.vercel.app/api?username=raffaeccard&show_icons=true&theme=transparent&hide_border=true&title_color=00ffff&icon_color=00ff9c&text_color=6a5acd"/>
