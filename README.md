@@ -42,6 +42,13 @@
 <img src="https://nirzak-streak-stats.vercel.app/?user=raffaeccard&theme=darcula&hide_border=false" alt="Streak Stats" width="350" />&nbsp;&nbsp; <!-- Isso cria espaço entre as imagens -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaeccard&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="350" />
 
+## ⚡ My GitHub Activity
+
+
+![Snake animation](https://raw.githubusercontent.com/raffaeccard/raffaeccard/output/snake-tron.svg)
+
+
+> **“Code is my light trail.”**
 
 
 ### 🔝 Top Contributed Repo
