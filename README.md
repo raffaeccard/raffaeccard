@@ -1,40 +1,85 @@
-# 💫 Sobre mim:
-👋 Olá! Eu sou Raffael Eccard, um Analista de Sistemas apaixonado por tecnologia, aprendizado contínuo e explorar o mundo. Eu prospero em inovação e gosto de enfrentar novos desafios.<br><br>🌍 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web, ciência de dados e tecnologias de backend. Acredito no poder da tecnologia para criar mudanças positivas e estou sempre ansioso para aprender mais.<br><br>💻 Além do meu trabalho profissional, gosto de trabalhar em projetos pessoais, contribuir para projetos de código aberto e me manter atualizado com as últimas tendências da indústria.<br><br>✨ Quando não estou programando, você pode me encontrar lendo livros, viajando ou passando tempo com minha golden retriever.<br><br>
+# 👋 Hi, I'm Raffael Eccard!
 
+### Information Systems Student | IT | DevOps | Backend | Automation | Data
 
-## 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaeleccard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raffaelceccard@gmail.com) 
+I'm passionate about technology, problem-solving, and continuous learning. I enjoy building software, automating processes, and exploring how development, infrastructure, and data work together to create efficient solutions.
 
-# 💻 Habilidades:
+🎓 Graduated in Systems Analysis and Development and currently pursuing a degree in Information Systems.
 
-### Linguagens de Programação
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+💻 I have experience in IT support, DevOps practices, process automation, and software development, including projects involving CI/CD pipelines, scripting, APIs, and workflow integrations.
 
-### Ferramentas e Frameworks
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
+🚀 Currently expanding my knowledge in **DevOps & Cloud, Backend Development, Automation, and Data Analytics**, while developing complementary skills in frontend development and IT infrastructure.
 
-### Controle de Versão
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
+🌱 I believe in learning by doing, sharing knowledge, and continuously improving my technical skills.
 
-### Design e Produtividade
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=FF3366) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) 
+**[🇧🇷 Read this profile in Portuguese](README.pt-BR.md)**
 
+---
+
+## 🎯 Areas of Interest
+
+- **DevOps & Cloud:** CI/CD, Docker, Jenkins, Linux, AWS, infrastructure, and monitoring.
+- **Automation & Integration:** Python, Power Automate, n8n, APIs, scripting, and workflow automation.
+- **Backend Development:** Java, Spring Boot, REST APIs, and database management.
+- **Data & Analytics:** SQL, Python, data analysis, and Power BI.
+- **Complementary Knowledge:** JavaScript, HTML, React, and IT infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### DevOps, Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Automation & Integration
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### Databases & Data Analytics
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Version Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java and Spring Boot
+- DevOps practices and CI/CD pipelines
+- Cloud infrastructure and AWS
+- Python for data analysis and automation
+- Software architecture and system integration
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaeleccard)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffaelceccard@gmail.com)
+
+---
+
+*"Always learning, building, and improving."*
 
