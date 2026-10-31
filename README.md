@@ -81,5 +81,7 @@ I'm passionate about technology, problem-solving, and continuous learning. I enj
 
 ---
 
-*"Always learning, building, and improving."*
+*"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths. Keep moving forward."
+
+— Walt Disney (Meet the Robinsons, 2007)*
 
