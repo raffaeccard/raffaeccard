@@ -22,7 +22,7 @@ I'm passionate about technology, problem-solving, and continuous learning. I enj
 - **Automation & Integration:** Python, Power Automate, n8n, APIs, scripting, and workflow automation.
 - **Backend Development:** Java, Spring Boot, REST APIs, and database management.
 - **Data & Analytics:** SQL, Python, data analysis, and Power BI.
-- **Complementary Knowledge:** JavaScript, HTML, React, and IT infrastructure.
+- **Complementary Knowledge:** JavaScript, HTML, CSS, React, and IT infrastructure.
 
 ---
 
@@ -32,8 +32,6 @@ I'm passionate about technology, problem-solving, and continuous learning. I enj
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -44,7 +42,6 @@ I'm passionate about technology, problem-solving, and continuous learning. I enj
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Automation & Integration
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
@@ -81,7 +78,7 @@ I'm passionate about technology, problem-solving, and continuous learning. I enj
 
 ---
 
-*"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths. Keep moving forward."
+***"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things, because we're curious... and curiosity keeps leading us down new paths. Keep moving forward."***
 
-— Walt Disney (Meet the Robinsons, 2007)*
+***— Walt Disney (Meet the Robinsons, 2007)***
 
